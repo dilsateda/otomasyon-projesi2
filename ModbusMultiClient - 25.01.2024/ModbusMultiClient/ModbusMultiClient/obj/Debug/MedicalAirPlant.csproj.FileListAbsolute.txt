@@ -1,0 +1,14 @@
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.exe.config
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.exe
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.pdb
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\EasyModbus.dll
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\EasyModbus.xml
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.MainForm.resources
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.Properties.Resources.resources
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\MedicalAirPlant.csproj.GenerateResource.cache
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\MedicalAirPlant.csproj.CoreCompileInputs.cache
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\MedicalAirPlant.csproj.CopyComplete
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.exe
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.pdb
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\MedicalAirPlant.csproj.AssemblyReference.cache

@@ -1,0 +1,24 @@
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.exe.config
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.csprojResolveAssemblyReference.cache
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.Form1.resources
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.Properties.Resources.resources
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.csproj.GenerateResource.Cache
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.exe
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.pdb
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\bin\Debug\EasyModbus.dll
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\bin\Debug\EasyModbus.xml
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.exe
+c:\users\fatih akalper\documents\visual studio 2015\Projects\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.pdb
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.exe.config
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.exe
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\ModbusMultiClient.pdb
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\EasyModbus.dll
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\bin\Debug\EasyModbus.xml
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.csproj.AssemblyReference.cache
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.Form1.resources
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.Properties.Resources.resources
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.csproj.GenerateResource.cache
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.csproj.CoreCompileInputs.cache
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.csproj.CopyComplete
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.exe
+C:\Users\SONGUL\Desktop\ModbusMultiClient\ModbusMultiClient\ModbusMultiClient\obj\Debug\ModbusMultiClient.pdb
